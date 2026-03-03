@@ -1,4 +1,4 @@
-# MathTIR Training Guide
+# MathTIR 训练指南
 
 ## Dataset Preparation
 
